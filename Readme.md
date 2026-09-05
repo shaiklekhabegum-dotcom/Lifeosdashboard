@@ -9,7 +9,8 @@ https://shaiklekhabegum-dotcom.github.io/Lifeosdashboard/
 
 ## 💻 GitHub
 
-https://github.com/shaiklekhabegum-dotcom/Lifeosdashboard
+
+screenshots/focus.png
 
 ## ✨ Features
 
