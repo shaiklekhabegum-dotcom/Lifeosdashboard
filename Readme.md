@@ -42,8 +42,7 @@ The application works on:
 - Mobile
 
 ## 📸 Screenshots
-
-Add screenshots of the dashboard here.
+https://github.com/shaiklekhabegum-dotcom/Lifeosdashboard/blob/main/screenshots/addactivity.png
 
 ## 👨‍💻 Author
 
