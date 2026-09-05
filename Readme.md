@@ -11,6 +11,7 @@ https://shaiklekhabegum-dotcom.github.io/Lifeosdashboard/
 
 screenshots/lifeosdashboard.png
 screenshots/focus.png
+screenshots/addactivity.png
 
 ## ✨ Features
 
