@@ -50,6 +50,6 @@ https://github.com/shaiklekhabegum-dotcom/Lifeosdashboard/blob/main/screenshots/
 
 Shaik Lekha Begum
 
-LinkedIn: YOUR-LINKEDIN
+LinkedIn: https://www.linkedin.com/in/lekha-begum-shaik-320182354/
 
 GitHub: YOUR-GITHUB
