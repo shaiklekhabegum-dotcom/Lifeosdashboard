@@ -5,7 +5,7 @@ HTML, CSS and Vanilla JavaScript.
 
 ## 🚀 Live Demo
 
-YOUR-LIVE-DEMO-LINK
+https://shaiklekhabegum-dotcom.github.io/Lifeosdashboard/
 
 ## 💻 GitHub
 
