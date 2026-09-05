@@ -48,7 +48,7 @@ https://github.com/shaiklekhabegum-dotcom/Lifeosdashboard/blob/main/screenshots/
 
 ## 👨‍💻 Author
 
-Your Name
+Shaik Lekha Begum
 
 LinkedIn: YOUR-LINKEDIN
 
