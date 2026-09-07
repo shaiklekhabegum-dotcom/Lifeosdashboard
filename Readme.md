@@ -5,11 +5,13 @@ HTML, CSS and Vanilla JavaScript.
 
 ## 🚀 Live Demo
 
-YOUR-LIVE-DEMO-LINK
+https://shaiklekhabegum-dotcom.github.io/Lifeosdashboard/
 
 ## 💻 GitHub
 
-https://github.com/shaiklekhabegum-dotcom/Lifeosdashboard
+screenshots/lifeosdashboard.png
+screenshots/focus.png
+screenshots/addactivity.png
 
 ## ✨ Features
 
@@ -42,13 +44,12 @@ The application works on:
 - Mobile
 
 ## 📸 Screenshots
-
-Add screenshots of the dashboard here.
+https://github.com/shaiklekhabegum-dotcom/Lifeosdashboard/blob/main/screenshots/addactivity.png
 
 ## 👨‍💻 Author
 
-Your Name
+Shaik Lekha Begum
 
-LinkedIn: YOUR-LINKEDIN
+LinkedIn: https://www.linkedin.com/in/lekha-begum-shaik-320182354/
 
-GitHub: YOUR-GITHUB
+GitHub: https://shaiklekhabegum-dotcom.github.io/Lifeosdashboard/
